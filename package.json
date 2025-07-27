@@ -1,0 +1,17 @@
+{
+  "name": "entrega.final.back.end.node.js",
+  "version": "1.0.0",
+  "description": "trabajo final node js",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node index.js"
+  },
+  "keywords": [],
+  "author": "Juan Manuel Zarauza",
+  "license": "MIT",
+  "type": "module",
+  "dependencies": {
+    "express": "^5.1.0"
+  }
+}
